@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-official-demo/static/css/main.67d839ee.chunk.css",
-    "main.js": "/react-official-demo/static/js/main.cb4ecee9.chunk.js",
-    "main.js.map": "/react-official-demo/static/js/main.cb4ecee9.chunk.js.map",
-    "runtime-main.js": "/react-official-demo/static/js/runtime-main.c39eb8cc.js",
-    "runtime-main.js.map": "/react-official-demo/static/js/runtime-main.c39eb8cc.js.map",
-    "static/js/2.d4fe8c0f.chunk.js": "/react-official-demo/static/js/2.d4fe8c0f.chunk.js",
-    "static/js/2.d4fe8c0f.chunk.js.map": "/react-official-demo/static/js/2.d4fe8c0f.chunk.js.map",
-    "index.html": "/react-official-demo/index.html",
-    "precache-manifest.e48d1c344b0d1cddc659ef42699fa66d.js": "/react-official-demo/precache-manifest.e48d1c344b0d1cddc659ef42699fa66d.js",
-    "service-worker.js": "/react-official-demo/service-worker.js",
-    "static/css/main.67d839ee.chunk.css.map": "/react-official-demo/static/css/main.67d839ee.chunk.css.map",
-    "static/js/2.d4fe8c0f.chunk.js.LICENSE": "/react-official-demo/static/js/2.d4fe8c0f.chunk.js.LICENSE"
+    "main.css": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/css/main.67d839ee.chunk.css",
+    "main.js": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/main.6e89032e.chunk.js",
+    "main.js.map": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/main.6e89032e.chunk.js.map",
+    "runtime-main.js": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/runtime-main.5d283a20.js",
+    "runtime-main.js.map": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/runtime-main.5d283a20.js.map",
+    "static/js/2.d4fe8c0f.chunk.js": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/2.d4fe8c0f.chunk.js",
+    "static/js/2.d4fe8c0f.chunk.js.map": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/2.d4fe8c0f.chunk.js.map",
+    "index.html": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/index.html",
+    "precache-manifest.c93018f8f1e463d75c7899532f7df4a8.js": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/precache-manifest.c93018f8f1e463d75c7899532f7df4a8.js",
+    "service-worker.js": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/service-worker.js",
+    "static/css/main.67d839ee.chunk.css.map": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/css/main.67d839ee.chunk.css.map",
+    "static/js/2.d4fe8c0f.chunk.js.LICENSE": "/React-Official-Tutorial-Demo-in-Functional-Components-Style/static/js/2.d4fe8c0f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c39eb8cc.js",
+    "static/js/runtime-main.5d283a20.js",
     "static/js/2.d4fe8c0f.chunk.js",
     "static/css/main.67d839ee.chunk.css",
-    "static/js/main.cb4ecee9.chunk.js"
+    "static/js/main.6e89032e.chunk.js"
   ]
 }
