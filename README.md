@@ -13,6 +13,8 @@ To run this app, just type `npm start` after your installed the relevant package
 
 Have fun.
 
+In addition, here is a live demo: https://lvxiaoxin.github.io/React-Official-Tutorial-Demo-in-Functional-Components-Style/
+
 ---
 
 Personally, I don't like use 'class' in JavaScript since it's fake, which is just a syntax sugar with prototype chain. Hopefully, with TypeScript it's way more easy for us to do OOP. But for JavaScript, I think it's better to use Objects and Delegate oriented design pattern, and avoid to use 'class' as much as possible.
